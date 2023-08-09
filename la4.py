@@ -1,4 +1,5 @@
 def EncoderQR():
+    
     b=["10000000","01000000","00100000","00010000","00001000"]
     name=input("Enter the name:")
     if len(name)>5:
